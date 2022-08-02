@@ -1,7 +1,7 @@
 # MarkdownBlogApp
 
 ### This is my first project while learning backend techs: nodeJs, mongoDB, express.
-### It is a application for posting articles using markdown, In this app you can add, view, edit, delete an article written using markdown, it basically converts the markdown into HTML and then sanitize that HTML for any malicious code.
+### It is an application for posting articles using markdown, In this app you can add, view, edit, delete an article written using markdown, it basically converts the markdown into HTML and then sanitize that HTML for any malicious code.
 
 ## Tech Stack
 
