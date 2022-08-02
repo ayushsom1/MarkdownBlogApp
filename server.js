@@ -12,7 +12,7 @@ mongoose.connect('mongodb://localhost/blog')
 app.set('view engine', 'ejs')
 
 // TODO
-// the use is used to get the accessing permission for accesing all the fields as re.body.
+// this use is used to get permission for accesing all the fields as req.body.
 app.use(express.urlencoded({ extended: false }))
 
 //if we set the parameter "_method" in any type of form it override the method
