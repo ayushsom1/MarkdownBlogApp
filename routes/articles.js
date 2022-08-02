@@ -56,9 +56,6 @@ function saveArticleAndRedirect(path) {
     }
 }
 
-router.put('/:id', (req, res) => {
-
-})
 
 // A link only does get and a form only does get and post methods so making delete method we have to install an another library called METHOD OVERRIDE
 router.delete('/:id', async (req, res) => {
